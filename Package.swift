@@ -15,7 +15,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "MailCore2",
-                      url: "https://github.com/pedrosakey/files/raw/main/MailCore2.zip",
+                      url: "https://github.com/pedrosakey/files/raw/main/MailCore2.framework.zip",
                       checksum: "519a54bd541331a78adebae46adfa27d0cc47ef4f812e4774226851688784b79")
     ]
 )
